@@ -1,31 +1,4 @@
+body {
+    background-image: assets/images/old_map.png;
+  }
 
-
-@media screen and (max-width: 768px) {
-    body {
-    background-color: green;
-}  }
-
-@media screen and (max-width: 500px) {
-    body {
-    background-color: yellow;
-}  }
-
-@media screen and (max-width: 240px) {
-    body {
-    background-color: red;
-}  }
-
-#sidebar {
-    float: right;
-}
-
-#main-content {
-    float: left;
-    font-size: 25px;
-}
-
-p.my-content {
-
-}
-
-p.
